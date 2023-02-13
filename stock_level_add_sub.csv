@@ -1,0 +1,26 @@
+Name,Changes,Units,Amount
+BB Border Malt,Add,KG,50.0
+BB Border Malt,Subtract,KG,-43.0
+BLM Rolled Oats,Add,KG,25.0
+SLO Styrian Goldings,Add,KG,1.0
+SLO Styrian Goldings,Subtract,KG,-0.8
+Safale BE-134 500g,Add,Each,1.0
+Safale BE-134 500g,Subtract,Each,-1.0
+Safale US-05 500g,Add,Each,1.0
+Saflager 34/70,Add,Each,1.0
+Saflager 34/70,Subtract,Each,-1.0
+TROPICO Blood Orange Concentrate 45 Brix TBLDCB,Add,KG,20.0
+TROPICO Blood Orange Concentrate 45 Brix TBLDCB,Subtract,KG,-20.0
+TROPICO Pineapple Juice Box TPINB,Add,KG,21.0
+TROPICO Pineapple Juice Box TPINB,Subtract,KG,-21.0
+US Cascade,Add,KG,1.0
+WEY Carafa Special III,Add,KG,2.5
+WEY Carahell,Add,KG,8.3
+WEY Munich II,Add,KG,25.0
+WEY Munich II,Subtract,KG,-22.5
+WEY Pilsner,Add,KG,150.0
+WEY Pilsner,Subtract,KG,-142.5
+WEY Vienna,Add,KG,25.0
+WEY Vienna,Subtract,KG,-25.0
+WEY Wheat,Add,KG,25.0
+WEY Wheat,Subtract,KG,-25.0

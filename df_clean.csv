@@ -1,0 +1,88 @@
+,Name,Changes,Amount,Units,Date,Amounts
+83,BB Border Malt,Add,50.0,KG,2022-07-13,50.0
+43,BB Border Malt,Subtract,-1.034,KG,2022-02-08,1.034
+60,BB Border Malt,Subtract,-31.5,KG,2022-07-27,31.5
+61,BB Border Malt,Subtract,-11.5,KG,2022-07-27,11.5
+82,BLM Rolled Oats,Add,25.0,KG,2022-07-13,25.0
+33,Bioglucanase,Subtract,-0.01,L,2022-08-16,0.01
+15,Bioglucanase,Subtract,-0.01,L,2022-08-17,0.01
+55,Bioglucanase,Subtract,-0.02,L,2022-07-27,0.02
+75,Bioglucanase,Subtract,-0.01,L,2022-07-18,0.01
+1,CaCl2 (Calcium Chloride),Subtract,-0.046,KG,2022-08-17,0.046
+50,CaCl2 (Calcium Chloride),Subtract,-0.039,KG,2022-07-27,0.039
+64,CaCl2 (Calcium Chloride),Subtract,-0.054,KG,2022-07-20,0.054
+21,CaCl2 (Calcium Chloride),Subtract,-0.046,KG,2022-08-16,0.046
+73,CaCl2 (Calcium Chloride),Subtract,-0.032,KG,2022-07-18,0.032
+30,CaCl2 (Calcium Chloride),Subtract,-0.049,KG,2022-08-16,0.049
+56,CaCl2 (Calcium Chloride),Subtract,-0.022,KG,2022-07-27,0.022
+74,CaSO4 (Calcium Sulfate),Subtract,-0.023,KG,2022-07-18,0.023
+2,CaSO4 (Calcium Sulfate),Subtract,-0.021,KG,2022-08-17,0.021
+13,CaSO4 (Calcium Sulfate),Subtract,-0.022,KG,2022-08-17,0.022
+22,CaSO4 (Calcium Sulfate),Subtract,-0.021,KG,2022-08-16,0.021
+57,CaSO4 (Calcium Sulfate),Subtract,-0.016,KG,2022-07-27,0.016
+51,CaSO4 (Calcium Sulfate),Subtract,-0.028,KG,2022-07-27,0.028
+65,CaSO4 (Calcium Sulfate),Subtract,-0.038,KG,2022-07-20,0.038
+31,CaSO4 (Calcium Sulfate),Subtract,-0.022,KG,2022-08-16,0.022
+49,Dextrose,Subtract,-8.0,KG,2022-07-27,8.0
+63,Fermcap AT Antifoam,Subtract,-0.01,L,2022-07-20,0.01
+53,Fermcap AT Antifoam,Subtract,-0.005,L,2022-07-27,0.005
+20,Fermcap AT Antifoam,Subtract,-0.01,L,2022-08-16,0.01
+0,Fermcap AT Antifoam,Subtract,-0.01,L,2022-08-17,0.01
+45,GR Magnum,Subtract,-0.11,KG,2022-07-27,0.11
+71,GR Magnum,Subtract,-0.05,KG,2022-07-20,0.05
+72,Lactic Acid,Subtract,-0.015,L,2022-07-18,0.015
+32,Lactic Acid,Subtract,-0.019,L,2022-08-16,0.019
+3,MgSO4,Subtract,-0.023,KG,2022-08-17,0.023
+68,MgSO4,Subtract,-0.0192,KG,2022-07-20,0.0192
+58,MgSO4,Subtract,-0.008,KG,2022-07-27,0.008
+34,MgSO4,Subtract,-0.0245,KG,2022-08-16,0.0245
+23,MgSO4,Subtract,-0.023,KG,2022-08-16,0.023
+76,MgSO4,Subtract,-0.0115,KG,2022-07-18,0.0115
+52,MgSO4,Subtract,-0.014,KG,2022-07-27,0.014
+59,NaHCO3 (Sodium Bicarbonate),Subtract,-0.016,KG,2022-07-27,0.016
+5,SLO Styrian Goldings,Subtract,-0.3,KG,2022-08-17,0.3
+6,SLO Styrian Goldings,Subtract,-0.1,KG,2022-08-17,0.1
+42,SLO Styrian Goldings,Add,1.0,KG,2022-08-08,1.0
+27,SLO Styrian Goldings,Subtract,-0.1,KG,2022-08-16,0.1
+26,SLO Styrian Goldings,Subtract,-0.3,KG,2022-08-16,0.3
+9,Safale BE-134 500g,Subtract,-0.5,Each,2022-08-17,0.5
+38,Safale BE-134 500g,Add,1.0,Each,2022-08-08,1.0
+25,Safale BE-134 500g,Subtract,-0.5,Each,2022-08-16,0.5
+44,Safale S-04 500g,Subtract,-1.0,Each,2022-07-27,1.0
+87,Safale US-05 500g,Add,1.0,Each,2022-05-07,1.0
+70,Saflager 34/70,Subtract,-1.0,Each,2022-07-20,1.0
+88,Saflager 34/70,Add,1.0,Each,2022-05-07,1.0
+7,TROPICO Blood Orange Concentrate 45 Brix TBLDCB,Subtract,-20.0,KG,2022-08-17,20.0
+28,TROPICO Blood Orange Concentrate 45 Brix TBLDCB,Add,20.0,KG,2022-08-16,20.0
+29,TROPICO Pineapple Juice Box TPINB,Add,21.0,KG,2022-08-16,21.0
+8,TROPICO Pineapple Juice Box TPINB,Subtract,-21.0,KG,2022-08-17,21.0
+54,Tetrahop 9%,Subtract,-0.055,KG,2022-07-27,0.055
+86,US Cascade,Add,1.0,KG,2022-08-07,1.0
+84,WEY Carafa Special III,Add,2.5,KG,2022-08-07,2.5
+62,WEY Carafa Special III,Subtract,-2.5,KG,2022-07-27,2.5
+85,WEY Carahell,Add,8.3,KG,2022-08-07,8.3
+77,WEY Carahell,Subtract,-0.15,KG,2022-07-18,0.15
+78,WEY Carahell,Subtract,-4.85,KG,2022-07-18,4.85
+10,WEY Munich II,Subtract,-12.5,KG,2022-08-17,12.5
+79,WEY Munich II,Subtract,-1.5,KG,2022-07-18,1.5
+80,WEY Munich II,Subtract,-8.5,KG,2022-07-18,8.5
+89,WEY Munich II,Add,25.0,KG,2022-05-07,25.0
+81,WEY Pilsner,Subtract,-55.0,KG,2022-07-18,55.0
+90,WEY Pilsner,Add,75.0,KG,2022-05-07,75.0
+11,WEY Pilsner,Subtract,-12.5,KG,2022-08-17,12.5
+39,WEY Pilsner,Add,75.0,KG,2022-08-08,75.0
+17,WEY Pilsner,Subtract,-37.5,KG,2022-08-17,37.5
+35,WEY Pilsner,Subtract,-37.5,KG,2022-08-16,37.5
+36,WEY Vienna,Subtract,-25.0,KG,2022-08-16,25.0
+40,WEY Vienna,Add,25.0,KG,2022-08-08,25.0
+41,WEY Wheat,Add,25.0,KG,2022-08-08,25.0
+37,WEY Wheat,Subtract,-12.5,KG,2022-08-16,12.5
+19,WEY Wheat,Subtract,-12.5,KG,2022-08-17,12.5
+66,Whirlfloc G,Subtract,-0.02,KG,2022-07-20,0.02
+46,Whirlfloc G,Subtract,-0.01,KG,2022-07-27,0.01
+67,Yeast Nutrient,Subtract,-0.02,KG,2022-07-20,0.02
+47,Yeast Nutrient,Subtract,-0.02,KG,2022-07-27,0.02
+69,ZnSO4 (Zinc Sulfate),Subtract,-0.0005,L,2022-07-20,0.0005
+48,ZnSO4 (Zinc Sulfate),Subtract,-0.0005,L,2022-07-27,0.0005
+4,ZnSO4 (Zinc Sulfate),Subtract,-0.0005,L,2022-08-17,0.0005
+24,ZnSO4 (Zinc Sulfate),Subtract,-0.0005,L,2022-08-16,0.0005

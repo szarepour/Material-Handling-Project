@@ -1,0 +1,92 @@
+Date,Type,Name,Lot #,Brand,Batch,(+ / -),Amount,Units,Cost,Subset,Brew Process,Date Received
+17/08/2022 14:07,Adjuncts,Fermcap AT Antifoam,4039804,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-10,ml,($0.46),2,Boil Adjuncts,12/7/2021
+17/08/2022 14:07,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-46,g,($0.58),2,Kettle Finings,8/9/2021
+17/08/2022 14:07,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-21,g,($0.25),2,Kettle Finings,8/9/2021
+17/08/2022 14:07,Adjuncts,MgSO4,82094,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.023,kg,($0.33),2,Kettle Finings,14/10/2020
+17/08/2022 14:07,Adjuncts,ZnSO4 (Zinc Sulfate),ENZ10032,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.0005,L,($0.02),2,Kettle Finings,15/02/2022
+17/08/2022 14:07,Hops,SLO Styrian Goldings,21045,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.3,kg,($14.23),2,Boil Hops,8/8/2022
+17/08/2022 14:07,Hops,SLO Styrian Goldings,21045,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.1,kg,($4.74),2,Whirlpool Hops,8/8/2022
+17/08/2022 14:02,Adjuncts,TROPICO Blood Orange Concentrate 45 Brix TBLDCB,2111152P,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-20,kg,($302),2,Whirlpool,16/08/2022
+17/08/2022 14:02,Adjuncts,TROPICO Pineapple Juice Box TPINB,2202071A,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-21,kg,($107.52),2,Whirlpool,16/08/2022
+17/08/2022 14:01,Adjuncts,Safale BE-134 500g,75813,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.5,each,($66.43),2,Boil Adjuncts,8/8/2022
+17/08/2022 7:47,Grain,WEY Munich II,W322,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-12.5,kg,($30.66),2,"Mash In, Grain",5/7/2022
+17/08/2022 7:47,Grain,WEY Pilsner,W347,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-12.5,kg,($29.73),2,"Mash In, Grain",5/7/2022
+17/08/2022 7:46,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,0,,$0 ,2,"Mash In, Water Additives",8/9/2021
+17/08/2022 7:46,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-22,g,($0.26),2,"Mash In, Water Additives",8/9/2021
+17/08/2022 7:46,Adjuncts,Lactic Acid,L2004240691,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,0,,$0 ,2,"Mash In, Water Additives",8/9/2021
+17/08/2022 7:46,Adjuncts,Bioglucanase,21042020,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-10,ml,($0.59),2,"Mash In, Water Additives",14/10/2020
+17/08/2022 7:46,Adjuncts,MgSO4,82094,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,0,,$0 ,2,"Mash In, Water Additives",14/10/2020
+17/08/2022 7:46,Grain,WEY Pilsner,W347,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-37.5,kg,($98.12),2,"Mash In, Grain",8/8/2022
+17/08/2022 7:46,Grain,WEY Vienna,,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,0,kg,$0 ,2,"Mash In, Grain",
+17/08/2022 7:46,Grain,WEY Wheat,W336,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-12.5,kg,($32.54),2,"Mash In, Grain",8/8/2022
+16/08/2022 18:55,Adjuncts,Fermcap AT Antifoam,19F081,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-10,ml,$0 ,1,Boil Adjuncts,13/01/2021
+16/08/2022 18:55,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-46,g,($0.58),1,Kettle Finings,8/9/2021
+16/08/2022 18:55,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-21,g,($0.25),1,Kettle Finings,8/9/2021
+16/08/2022 18:55,Adjuncts,MgSO4,82094,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.023,kg,($0.33),1,Kettle Finings,14/10/2020
+16/08/2022 18:55,Adjuncts,ZnSO4 (Zinc Sulfate),ENZ10032,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.0005,L,($0.02),1,Kettle Finings,15/02/2022
+16/08/2022 18:55,Adjuncts,Safale BE-134 500g,75813,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.5,each,($66.43),1,Boil Adjuncts,8/8/2022
+16/08/2022 18:55,Hops,SLO Styrian Goldings,21045,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.3,kg,($14.23),1,Boil Hops,8/8/2022
+16/08/2022 18:55,Hops,SLO Styrian Goldings,21045,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.1,kg,($4.74),1,Whirlpool Hops,8/8/2022
+16/08/2022 10:15,Adjuncts,TROPICO Blood Orange Concentrate 45 Brix TBLDCB,2111152P,,,Add,20,kg,$302 ,,,
+16/08/2022 10:15,Adjuncts,TROPICO Pineapple Juice Box TPINB,2202071A,,,Add,21,kg,$107.52 ,,,
+16/08/2022 9:24,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-49,g,($0.62),1,"Mash In, Water Additives",8/9/2021
+16/08/2022 9:24,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-22,g,($0.26),1,"Mash In, Water Additives",8/9/2021
+16/08/2022 9:24,Adjuncts,Lactic Acid,L2004240691,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-19,ml,($0.36),1,"Mash In, Water Additives",8/9/2021
+16/08/2022 9:24,Adjuncts,Bioglucanase,,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-10,ml,$0 ,1,"Mash In, Water Additives",
+16/08/2022 9:24,Adjuncts,MgSO4,82094,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-0.0245,kg,($0.36),1,"Mash In, Water Additives",14/10/2020
+16/08/2022 9:24,Grain,WEY Pilsner,W347,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-37.5,kg,($98.12),1,"Mash In, Grain",8/8/2022
+16/08/2022 9:24,Grain,WEY Vienna,V361,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-25,kg,($67.11),1,"Mash In, Grain",8/8/2022
+16/08/2022 9:24,Grain,WEY Wheat,W336,Froth Rookies/Brewdog Super Goed Bier (250.00),16/08/2022,Subtract,-12.5,kg,($32.54),1,"Mash In, Grain",8/8/2022
+8/8/2022 8:29,Adjuncts,Safale BE-134 500g,75813,,,Add,1,each,$132.86 ,,,
+8/8/2022 8:29,Grain,WEY Pilsner,W347,,,Add,75,kg,$196.25 ,,,
+8/8/2022 8:29,Grain,WEY Vienna,V361,,,Add,25,kg,$67.11 ,,,
+8/8/2022 8:29,Grain,WEY Wheat,W336,,,Add,25,kg,$65.07 ,,,
+8/8/2022 8:29,Hops,SLO Styrian Goldings,21045,,,Add,1,kg,$47.45 ,,,
+2/8/2022 10:38,Grain,BB Border Malt,3.4897,,,Subtract,-1.034,kg,($3.54),,,13/07/2022
+27/07/2022 14:36,Adjuncts,Safale S-04 500g,1900508,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-1,each,($90.10),1,Boil Adjuncts,10/5/2021
+27/07/2022 14:35,Hops,GR Magnum,19110,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-0.11,kg,$0 ,1,Boil Hops,14/10/2020
+27/07/2022 13:56,Adjuncts,Whirlfloc G,3102468,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-10,g,($0.65),1,Kettle Finings,14/10/2020
+27/07/2022 13:56,Adjuncts,Yeast Nutrient,9918,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-20,g,($0.70),1,Kettle Finings,14/10/2020
+27/07/2022 13:56,Adjuncts,ZnSO4 (Zinc Sulfate),ENZ10032,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-0.0005,L,($0.02),1,Kettle Finings,15/02/2022
+27/07/2022 13:05,Adjuncts,Dextrose,2020102502,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-8,kg,($15.54),1,Boil Adjuncts,10/5/2021
+27/07/2022 13:05,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-39,g,($0.50),1,Boil Adjuncts,8/9/2021
+27/07/2022 13:05,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-28,g,($0.33),1,Boil Adjuncts,8/9/2021
+27/07/2022 13:05,Adjuncts,MgSO4,82094,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-0.014,kg,($0.20),1,Boil Adjuncts,14/10/2020
+27/07/2022 12:57,Adjuncts,Fermcap AT Antifoam,4039804,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-5,ml,($0.23),1,Kettle Finings,12/7/2021
+27/07/2022 10:21,Adjuncts,Tetrahop 9%,1018,Froth Rookies Keith's Mid Strength Lager (450.00),27/07/2022,Subtract,-0.055,kg,($4.17),,"BBT, Conditioning",18/01/2021
+27/07/2022 9:25,Adjuncts,Bioglucanase,21042020,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-20,ml,($1.19),1,Vorlauf,14/10/2020
+27/07/2022 8:34,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-22,g,($0.28),1,"Mash In, Water Additives",8/9/2021
+27/07/2022 8:34,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-16,g,($0.19),1,"Mash In, Water Additives",8/9/2021
+27/07/2022 8:34,Adjuncts,MgSO4,82094,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-0.008,kg,($0.12),1,"Mash In, Water Additives",14/10/2020
+27/07/2022 8:34,Adjuncts,NaHCO3 (Sodium Bicarbonate),BB 10/02/2022,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-16,g,($1.60),1,"Mash In, Water Additives",10/5/2021
+27/07/2022 8:34,Grain,BB Border Malt,3.466,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-31.5,kg,($60.29),1,"Mash In, Grain",15/02/2022
+27/07/2022 8:34,Grain,BB Border Malt,3.4897,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-11.5,kg,($39.40),1,"Mash In, Grain",13/07/2022
+27/07/2022 8:34,Grain,WEY Carafa Special III,8/7/2022,Froth Rookies Dark Ale (300.00),27/07/2022,Subtract,-2.5,kg,($20.59),1,"Mash In, Grain",8/7/2022
+20/07/2022 8:06,Adjuncts,Fermcap AT Antifoam,4039804,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-10,ml,($0.46),1,Boil Adjuncts,12/7/2021
+20/07/2022 8:06,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-54,g,($0.69),1,Kettle Finings,8/9/2021
+20/07/2022 8:06,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-38.5,g,($0.45),1,Kettle Finings,8/9/2021
+20/07/2022 8:06,Adjuncts,Whirlfloc G,3102468,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-20,g,($1.30),1,Kettle Finings,14/10/2020
+20/07/2022 8:06,Adjuncts,Yeast Nutrient,9918,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-20,g,($0.70),1,Kettle Finings,14/10/2020
+20/07/2022 8:06,Adjuncts,MgSO4,82094,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-0.0192,kg,($0.28),1,Kettle Finings,14/10/2020
+20/07/2022 8:06,Adjuncts,ZnSO4 (Zinc Sulfate),ENZ10032,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-0.0005,L,($0.02),1,Boil Adjuncts,15/02/2022
+20/07/2022 8:06,Adjuncts,Saflager 34/70,ABG42101234,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-1,each,($171.30),1,Boil Adjuncts,5/7/2022
+20/07/2022 8:06,Hops,GR Magnum,19110,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-0.05,kg,$0 ,1,Boil Hops,14/10/2020
+18/07/2022 7:59,Adjuncts,Lactic Acid,L2004240691,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-15,ml,($0.29),1,Lauter,8/9/2021
+18/07/2022 7:57,Adjuncts,CaCl2 (Calcium Chloride),CRE-19CCF030,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-32,g,($0.41),1,"Mash In, Water Additives",8/9/2021
+18/07/2022 7:57,Adjuncts,CaSO4 (Calcium Sulfate),20200420D1,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-23,g,($0.27),1,"Mash In, Water Additives",8/9/2021
+18/07/2022 7:57,Adjuncts,Bioglucanase,21042020,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-10,ml,($0.59),1,"Mash In, Water Additives",14/10/2020
+18/07/2022 7:57,Adjuncts,MgSO4,82094,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-0.0115,kg,($0.17),1,"Mash In, Water Additives",14/10/2020
+18/07/2022 7:57,Grain,WEY Carahell,V048,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-0.15,kg,($0.35),1,"Mash In, Grain",13/01/2021
+18/07/2022 7:57,Grain,WEY Carahell,8/7/2022,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-4.85,kg,($13.95),1,"Mash In, Grain",8/7/2022
+18/07/2022 7:57,Grain,WEY Munich II,15/03/2022,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-1.5,kg,($2.99),1,"Mash In, Grain",15/03/2022
+18/07/2022 7:57,Grain,WEY Munich II,W322,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-8.5,kg,($20.85),1,"Mash In, Grain",5/7/2022
+18/07/2022 7:57,Grain,WEY Pilsner,W347,Froth Rookies Keith's Mid Strength Lager (450.00),18/07/2022,Subtract,-55,kg,($130.82),1,"Mash In, Grain",5/7/2022
+13/07/2022 11:33,Grain,BLM Rolled Oats,D2222,,,Add,25,kg,$68.51 ,,,
+13/07/2022 11:33,Grain,BB Border Malt,3.4897,,,Add,50,kg,$171.29 ,,,
+8/7/2022 12:54,Grain,WEY Carafa Special III,8/7/2022,,,Add,2.5,kg,$20.59 ,,,
+8/7/2022 12:54,Grain,WEY Carahell,8/7/2022,,,Add,8.3,kg,$23.87 ,,,
+8/7/2022 12:54,Hops,US Cascade,8/7/2022,,,Add,1,kg,$60.23 ,,,
+5/7/2022 11:23,Adjuncts,Safale US-05 500g,ABH82100830,,,Add,1,each,$101.05 ,,,
+5/7/2022 11:23,Adjuncts,Saflager 34/70,ABG42101234,,,Add,1,each,$171.30 ,,,
+5/7/2022 11:23,Grain,WEY Munich II,W322,,,Add,25,kg,$61.31 ,,,
+5/7/2022 11:23,Grain,WEY Pilsner,W347,,,Add,75,kg,$178.39 ,,,
